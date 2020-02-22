@@ -74,7 +74,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li class="active"><a href="#" class="page-scroll">Home</a></li>
 						<li><a href="#service" class="page-scroll">Services</a></li>
 						<!-- <li><a href="#gallery" class="page-scroll">Sectors</a></li> -->
-						<li><a href="#products" class="page-scroll">Products</a></li>
+						<li><a href="#portfolio" class="page-scroll">Portfolio</a></li>
 						<li><a href="#contact" class="page-scroll">Contact</a></li>
 					</ul>
 				</div>
@@ -109,7 +109,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- services -->
 <section class="service-agileinfo" id="service">
 	<div class="container">
-		<h3 class="text-center" data-aos="zoom-in">Our Services</h3>
+		<h3 class="text-center" data-aos="zoom-in">What We Do</h3>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/consulting.jpg" alt="" class="img-responsive">
 			<h4 class="text-center">IT Consulting</h4>
@@ -117,17 +117,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/software.png" alt="" class="img-responsive">
-			<h4 class="text-center">Software</h4>
+			<h4 class="text-center">Build Software</h4>
 			<p class="text-center">Mobile Applications(Android, IOS, Windows etc), Desktop Applications, Embedded Systems/Solutions, Enterprise Solutions, Custom Softwares</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/networks.png" alt="" class="img-responsive">
-			<h4 class="text-center">Networks</h4>
+			<h4 class="text-center">Design Networks</h4>
 			<p class="text-center">We keep your business running smoothly by building and maintaining robust and efficient network, based on 1st class standards and technologies.</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/graphics.jpg" alt="" class="img-responsive">
-			<h4 class="text-center">Graphics & Prints</h4>
+			<h4 class="text-center">Create Brands</h4>
 			<p class="text-center">Creativity and skill in translating your business identity through your brand, effects and all accessories that represent you</p>
 		</div>
 		<div class="clearfix"></div>
@@ -142,53 +142,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 </section>
 <!-- /divider -->
-<!-- products -->
-<section class="service-agileinfo" id="products">
-<h3 class="text-center" data-aos="zoom-in">WEB SOLUTIONS</h3>
-	<div class="container">
+
+<!-- portfolio -->
+<section class="service-agileinfo" id="portfolio">
+<h4 class="text-center" data-aos="zoom-in">SOFTWARE SOLUTIONS</h3>
+	<div class="container" style="margin-top:25px;">
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
-			<img src="images/hospital.png" alt="" class="img-responsive">
-			<h4 class="text-center">HOSPITALS</h4>
-			<p class="text-center">Hospital Management System</p>
+			<img src="images/webapps.png" alt="" class="img-responsive">
+			<h5 class="text-center">Web Apps</h5>
+			<p class="text-center">Websites | Web Apps | Web Services</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
-			<img src="images/ecommerce.png" alt="" class="img-responsive">
-			<h4 class="text-center">ECOMMERCE</h4>
-			<p class="text-center">E Commerce Systems/Solutions</p>
+			<img src="images/mobile.jpg" alt="" class="img-responsive">
+			<h5 class="text-center">Mobile Apps</h5>
+			<p class="text-center">Android | IOS | Windows</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
-			<img src="images/events.png" alt="" class="img-responsive">
-			<h4 class="text-center">EVENTS</h4>
-			<p class="text-center">Event Management Systems/Solutions</p>
+			<img src="images/embedded.png" alt="" class="img-responsive">
+			<h5 class="text-center">Embedded Systems</h5>
+			<p class="text-center">Prototyping | Fabrication</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
-			<img src="images/exams.png" alt="" class="img-responsive">
-			<h4 class="text-center">CBT</h4>
-			<p class="text-center">COmputer Based Examinations</p>
-		</div>
-		<div class="clearfix"></div>
-	</div>
-	<hr style="width:100%; margin-bottom:20px;">
-	<div class="container">
-		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
-			<img src="images/lab.png" alt="" class="img-responsive">
-			<h4 class="text-center">LABS</h4>
-			<p class="text-center">Laboratory Management System</p>
-		</div>
-		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
-			<img src="images/school.png" alt="" class="img-responsive">
-			<h4 class="text-center">SCHOOLS</h4>
-			<p class="text-center">School Management Systems/Solutions</p>
-		</div>
-		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
-			<img src="images/transport.png" alt="" class="img-responsive">
-			<h4 class="text-center">TMS</h4>
-			<p class="text-center">Transport Management Systems/Solutions</p>
-		</div>
-		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
-			<img src="images/hrm.png" alt="" class="img-responsive">
-			<h4 class="text-center">HRM</h4>
-			<p class="text-center">Human Resource Manager</p>
+			<img src="images/migration.png" alt="" class="img-responsive">
+			<h5 class="text-center">Data Services & Migration</h5>
+			<p class="text-center">Move | Process | Transform data</p>
 		</div>
 		<div class="clearfix"></div>
 	</div>
@@ -206,26 +183,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <!-- products -->
 <section class="service-agileinfo" id="products">
-<h3 class="text-center" data-aos="zoom-in">BRANDING SOLUTIONS</h3>
-	<div class="container">
+<h4 class="text-center" data-aos="zoom-in">BRANDING SOLUTIONS</h4>
+	<div class="container" style="margin-top:25px;">
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/stationery.png" alt="" class="img-responsive">
-			<h4 class="text-center">STATIONARY</h4>
+			<h5 class="text-center">STATIONARY</h5>
 			<p class="text-center">Books, Magazines, Clothing, etc</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/cards.png" alt="" class="img-responsive">
-			<h4 class="text-center">BRAND EFFECTS</h4>
+			<h5 class="text-center">BRAND EFFECTS</h5>
 			<p class="text-center">C-Cards, Fliers, Logos, Envelopes etc</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/billboard.png" alt="" class="img-responsive">
-			<h4 class="text-center">ADVERTISING</h4>
+			<h5 class="text-center">ADVERTISING</h5>
 			<p class="text-center">Bill Boards, Banners, Adverts</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/online.png" alt="" class="img-responsive">
-			<h4 class="text-center">SOCIAL MEDIA</h4>
+			<h5 class="text-center">SOCIAL MEDIA</h5>
 			<p class="text-center">Content management & Connectivity</p>
 		</div>
 		<div class="clearfix"></div>
@@ -245,26 +222,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <!-- products -->
 <section class="service-agileinfo" id="products">
-<h3 class="text-center" data-aos="zoom-in">CONNECTIVITY SOLUTIONS</h3>
-	<div class="container">
+<h4 class="text-center" data-aos="zoom-in">CONNECTIVITY SOLUTIONS</h4>
+	<div class="container" style="margin-top:25px;">
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/lan.png" alt="" class="img-responsive">
-			<h4 class="text-center">LAN SOLUTIONS</h4>
+			<h5 class="text-center">LAN SOLUTIONS</h5>
 			<p class="text-center">Local Area Networks</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/wan.png" alt="" class="img-responsive">
-			<h4 class="text-center">WAN SOLUTIONS</h4>
+			<h5 class="text-center">WAN SOLUTIONS</h5>
 			<p class="text-center">Wide Area Networks</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/home.png" alt="" class="img-responsive">
-			<h4 class="text-center">HOME SOLUTIONS</h4>
+			<h5 class="text-center">HOME SOLUTIONS</h5>
 			<p class="text-center">Small office and home solutions</p>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
 			<img src="images/cams.png" alt="" class="img-responsive">
-			<h4 class="text-center">CAMS & CCTV</h4>
+			<h5 class="text-center">CAMS & CCTV</h5>
 			<p class="text-center">Closed circuit TVs, Cameras etc</p>
 		</div>
 		<div class="clearfix"></div>
@@ -272,6 +249,69 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	
 </section>
 <!-- /products -->
+
+
+<!-- divider -->
+<section class="divider-wthree">
+	<div class="container">
+		<h3 class="text-center" data-aos="zoom-in">Happy Clients, Quality Products, redefining industry standards</h3>
+		<p class="text-center" data-aos="zoom-in">Our services are tailored to meet your desires and provide you with the best addition to take your endeavours to the next level. </p>
+	</div>
+</section>
+<!-- /divider -->
+
+<!-- portfolio -->
+<section class="service-agileinfo" id="portfolio">
+<h4 class="text-center" data-aos="zoom-in">Projects | Portfolio | Demos</h4>
+	<div class="container" style="margin-top:25px;">
+		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
+			<img src="images/hospital.png" alt="" class="img-responsive">
+			<h5 class="text-center">HOSPITALS</h5>
+			<p class="text-center">Hospital Management System</p>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
+			<img src="images/ecommerce.png" alt="" class="img-responsive">
+			<h5 class="text-center">ECOMMERCE</h5>
+			<p class="text-center">E Commerce Systems/Solutions</p>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
+			<img src="images/events.png" alt="" class="img-responsive">
+			<h5 class="text-center">EVENTS</h5>
+			<p class="text-center">Event Management Systems/Solutions</p>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
+			<img src="images/exams.png" alt="" class="img-responsive">
+			<h5 class="text-center">CBT</h5>
+			<p class="text-center">COmputer Based Examinations</p>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<hr style="width:100%; margin-bottom:20px;">
+	<div class="container">
+		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
+			<img src="images/lab.png" alt="" class="img-responsive">
+			<h5 class="text-center">LABS</h5>
+			<p class="text-center">Laboratory Management System</p>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
+			<img src="images/school.png" alt="" class="img-responsive">
+			<h5 class="text-center">SCHOOLS</h5>
+			<p class="text-center">School Management Systems/Solutions</p>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
+			<img src="images/transport.png" alt="" class="img-responsive">
+			<h5 class="text-center">TMS</h5>
+			<p class="text-center">Transport Management Systems/Solutions</p>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-6" data-aos="flip-down">
+			<img src="images/hrm.png" alt="" class="img-responsive">
+			<h5 class="text-center">HRM</h5>
+			<p class="text-center">Human Resource Manager</p>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</section>
+<!-- /portfolio -->
 
 <!-- contact -->
 <section class="contact-w3-agileits" id="contact">
@@ -310,17 +350,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 </section>
 <!-- /contact -->
+
 <!-- footer -->
 <section class="footer-w3-agileits">
 	<div class="container">
 		<div class="col-lg-8 col-md-8">
-			<ul class="w3-agile">
+			<!-- <ul class="w3-agile">
 				<li><a href="#" class="page-scroll">Home</a></li>
 				<li><a href="#service" class="page-scroll">Services</a></li>
 				<li><a href="#gallery" class="page-scroll">Sectors</a></li>
 				<li><a href="#team" class="page-scroll">Team</a></li>
 				<li><a href="#contact" class="page-scroll">Contact</a></li>
-			</ul>
+			</ul> -->
+			<p class="text-left">&copy; 2020 Gnorizon Consults</p>
 		</div>
 		<div class="col-lg-4 col-md-4">
 			<ul class="social-icons2">
@@ -331,10 +373,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</ul>	
 		</div>
 		<div class="clearfix"></div>
-		<p class="text-center">&copy; 2020 Gnorizon Consults</p>
+		<!-- <p class="text-center">&copy; 2020 Gnorizon Consults</p> -->
 	</div>
 </section>
 <!-- /footer -->
+
 <!-- back to top -->
 <a href="#0" class="cd-top">Top</a>
 <!-- /back to top -->
