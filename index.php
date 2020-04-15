@@ -319,7 +319,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<h3 class="text-center" data-aos="zoom-in">Get In Touch</h3>
 		<div class="col-lg-4 col-md-4 contact-w3l1" data-aos="flip-right">
 			<h4>Call, Text, Mail</h4>
-			<p style="font-color:#ffffff; font-size:16px;">+234 706 123 5694</p>
+			<p style="font-color:#ffffff; font-size:16px;">+234 706 132 5694</p>
 			<p style="font-color:#ffffff; font-size:16px;">+234 809 059 0166</p>
 			<p style="font-color:#ffffff; font-size:16px;">gnorizonconsults@gmail.com</p>
 			<p style="font-color:#ffffff; font-size:16px;">Jos Plateau State Nigeria</p>
@@ -367,9 +367,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="col-lg-4 col-md-4">
 			<ul class="social-icons2">
 				<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="https://twitter.com/gnorizon"><i class="fa fa-twitter"></i></a></li>
 				<li><a href="#"><i class="fa fa-youtube"></i></a></li>
-				<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+				<li><a href="#"><i class="fa fa-instagram"></i></a></li>
 			</ul>	
 		</div>
 		<div class="clearfix"></div>
